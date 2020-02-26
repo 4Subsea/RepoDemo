@@ -6,7 +6,8 @@ namespace RepoDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Save the World!");
+            //This is just bullshit
+            Console.WriteLine("Save the nice World!");
             Console.ReadLine();
         }
     }
