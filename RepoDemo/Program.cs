@@ -6,7 +6,7 @@ namespace RepoDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Commit the World!");
+            Console.WriteLine("Goodbye nice World!");
             Console.ReadLine();
         }
     }
